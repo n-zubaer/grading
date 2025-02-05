@@ -3,6 +3,7 @@ let userinput = +prompt('Enter your number');
     let marks = +userinput;
      
     
+    
 if (marks >= 0 && marks <= 32){
     alert('You are fail')
 }else if(marks >=33 && marks <=39){
