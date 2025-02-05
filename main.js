@@ -21,3 +21,5 @@ if (marks >= 0 && marks <= 32){
     alert('wrong inpur')
 }
 
+
+
