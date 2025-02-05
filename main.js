@@ -20,3 +20,4 @@ if (marks >= 0 && marks <= 32){
 }else{
     alert('wrong inpur')
 }
+
